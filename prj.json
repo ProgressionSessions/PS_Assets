@@ -1,0 +1,50 @@
+{
+    "displayProjectsSection":"true",
+     "Featured": [
+      {
+        "id": 1,
+        "title": "Progression Hub",
+        "description": "A state of the art roblox script hub with a wide variety of features and support for games!",
+        "image": "https://cdn.progressionsoftworks.dev/images/phbanner.png",
+        "link": "https://hub.progressionsoftworks.dev/"
+      },
+      {
+        "id": 2,
+        "title": "Progression Serverside",
+        "description": "Powerful server-side executor for roblox, With a huge array of compatibility and supported games.",
+        "image": "https://cdn.progressionsoftworks.dev/images/serverside.png",
+        "link": "https://serverside.progressionsoftworks.dev/"
+      },
+      {
+        "id": 3,
+        "title": "ProgressionWare",
+        "description": "Advanced code execution and deployment IDE for the roblox platform.",
+        "image": "https://cdn.progressionsoftworks.dev/images/executor.png",
+        "link": "https://executor.progressionsoftworks.dev/"
+      }
+    ],
+     "Other": [
+       {
+        "id": 1,
+            "title": "Cranjis Mc'basketball",
+        "description": "A highly advanced Discord Bot utilizing the DiscordJS Library, Designed for moderation, Fun, Sarcasm and QoL.",
+        "image": "https://cdn.progressionsoftworks.dev/images/cranjis.png",
+        "link": "https://cranjis.progressionsoftworks.dev/"
+      },
+       {
+        "id": 2,
+            "title": "Progression Chat",
+        "description": "A highly advanced Roblox chatbar script with support for custom plugins, themes & more.",
+        "image": "https://cdn.progressionsoftworks.dev/images/chat.jpg",
+        "link": "https://chat.progressionsoftworks.dev/"
+      },
+      {
+        "id": 3,
+        "title": "Progression Logger",
+        "description": "A Sophisticated audio logger/encryptor script for the roblox platform.",
+        "image": "https://cdn.progressionsoftworks.dev/images/logger.png",
+        "link": "https://logger.progressionsoftworks.dev/"
+      }
+    ]
+
+  }
